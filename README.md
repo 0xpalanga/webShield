@@ -40,3 +40,16 @@
 4. Run the Script
    ```
    python webShield.py
+
+---
+## Screenshots
+![image](https://github.com/user-attachments/assets/2759ee69-e000-4786-9f7b-beaa8f8567c0)
+![image](https://github.com/user-attachments/assets/187bb01e-7526-4ce3-888e-f0eb04977752)
+![image](https://github.com/user-attachments/assets/d381d990-16a4-4d44-8f5b-a7c4ae4876b4)
+
+---
+
+## ⚠️ Disclaimer
+This tool is intended for educational and authorized testing purposes only. Do not use it to scan systems you don’t own or have permission to test.
+
+<b><i>Happy Coding...</b></i>
