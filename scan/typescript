@@ -1,0 +1,81 @@
+Script started on 2024-10-26 20:28:44+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/jamilu/scan[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/…/boko/project/jamilu/scan[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mmv[39m DOC-20241021-WA0026. [1m/home/djbtech/Desktop/boko/project/mimee[0m[64D[39m [39m                       [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [64D[4mb[24m[4mb[24m[38;2;153;153;153minwalk reverse_shell.apk [39m[25D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[4ma[24m[4ma[24m[38;2;153;153;153mpt --fix-broken install[39m[23D[24m[36ma[36mb[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[39m[4ma[24m[39m [4ma[24m[38;2;153;153;153mpt --fix-broken install[39m[23D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[36mmv[39m DOC-20241021-WA0026. [1m/home/djbtech/Desktop/boko/project/mimee[0m[64D[36mc[36md[39m[2Cownloads            [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [52D[12D[36mp[36my[36mt[36mh[36mo[36mn[39m webShield.py [20D[36mn[36ma[36mn[36mo[39m[P[P[14C  [17D[36mp[36my[36mt[36mh[36mo[36mn[39m webShield.py [1mg[0m[1mg[1mo[0m[1mo[1mo[0m[1mo[1mg[0m[1mg[1ml[0m[1ml[1me[0m[1ml[0m[0m [1mg[0m[0m [1mo[0m[0m [1mo[0m[0m [1mg[0m[0m [0m  [38;2;153;153;153my [39m[39my[39m [?1l>[?2004l
+python: can't open file '/home/djbtech/Desktop/boko/project/jamilu/scan/webShield.py': [Errno 2] No such file or directory
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/jamilu/scan
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/…/boko/project/jamilu/scan[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4mc[24m[4mc[24m[38;2;153;153;153md Downloads[39m[11D[24m[36mc[36md[39m[39m [39m[1m.[0m[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153m.[39m[1m.[39m[1m.[0m[?1l>[?2004l
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/jamilu
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project/jamilu[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mcd[39m [1m..[0m[36mp[36my[36mt[0m[36mh[0m[36mo[36mn[39m [1mwebShield.py[0m [?1l>[?2004l
+[H[2J[3JWelcome to WebShield [0m
+[0m[92m[40m__        __   _    ____  _     _      _     _  
+\ \      / /__| |__/ ___|| |__ (_) ___| | __| | 
+ \ \ /\ / / _ \ '_ \___ \| '_ \| |/ _ \ |/ _` | 
+  \ V  V /  __/ |_) |__) | | | | |  __/ | (_| | 
+   \_/\_/ \___|_.__/____/|_| |_|_|\___|_|\__,_| 
+                                                
+[0m[0m
+[0m[0m
+[0m[96m============= Detecting Operating System ===============[0m
+[0m[0m
+[0mOperating System: [95mLinux
+[0m
+[0m[95m=============== Checking Library ===================[0m
+[0m[92mos: [94m is already installed.[0m
+[0m[92msocket: [94m is already installed.[0m
+[0m[92msys: [94m is already installed.[0m
+[0m[92mtime: [94m is already installed.[0m
+[0m[92mrequests: [94m is already installed.[0m
+[0m[92mcolorama: [94m is already installed.[0m
+[0m[92mpyfiglet: [94m is already installed.[0m
+[0m [0m
+[0m[32m [+] All necessary modules are installed, proceeding...
+[0m
+[0mEnter target-host: gooelc.    gle.com
+ [0m
+[0m[94mChecking [92mgoogle.com[94m alive or dead
+[0m
+[0mTarget Host is Alive with Ip: [96m142.250.179.78 
+[0m
+[0m[95m===============================================================[0m
+[0m[32mSelect Scan Options Below[0m
+[0m
+    1. Port Scan
+    2. Network Scan
+    3. Nmap Script Scan
+    4. Vulnerability Scan (approx 15 min)
+    5. All Scan (30 minutes approx.)
+    6. Change Target Host
+    7. Exit
+    [0m
+[0mEnter option: ^C[0mTraceback (most recent call last):
+[0m[0m  File "/home/djbtech/Desktop/boko/project/jamilu/webShield.py", line 168, in <module>
+[0m[0m    [0mmain()[0m
+[0m[0m  File "/home/djbtech/Desktop/boko/project/jamilu/webShield.py", line 145, in main
+[0m[0m    [0mselect = input("Enter option: ")[0m
+[0m[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m^[0m
+[0m[0mKeyboardInterrupt[0m[0m
+[0m[0m
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/jamilu
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project/jamilu[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/jamilu
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project/jamilu[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/jamilu
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project/jamilu[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/jamilu
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project/jamilu[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[0m[36mc[36md[39m[38;2;153;153;153m ..[39m[39m [39m[1m.[0m[1m.[39m[1m.[0m[?1l>[?2004l
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4mc[24m[4mc[24m[38;2;153;153;153md ..[39m[24m[36mc[36md[39m[39m [39m[1mm[0m[39m [38;2;153;153;153mimee[39m[1mm[39m[1mi[39m[1mm[39m[1me[39m[1me[1m/[0m[1me[0m[0m [?1l>[?2004l
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/mimee
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project/mimee[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36ml[39m[36ml[39m[38;2;153;153;153ms[39m[36ml[36ma[39m[?1l>[?2004l
+encrypted.pdf  report.pdf  testGUI.py
+                                                                                ]0;djbtech@kali: ~/Desktop/boko/project/mimee
+[0m[27m[24m[J[32m┌──([1m[32m[34mdjbtech㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/boko/project/mimee[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mr[39m[36mr[39m[38;2;153;153;153mm test.sh [39m[10D[36mr[36mm[39m[39m [39
