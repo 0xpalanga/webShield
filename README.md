@@ -31,7 +31,12 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/0xpalanga/WebShield.git
-2. change dir
+2. Change Directory
+   ```bash
    cd WebShield
+3. Install the requirements
+   ```
    pip install -r requirements.txt
+4. Run the Script
+   ```
    python webShield.py
